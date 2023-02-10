@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @rahulchamoli
-- 👀 I’m interested in Digital Marketing
 - 🌱 I’m currently learning Website Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - Mail me at rahulchamoli518@gmail.com
