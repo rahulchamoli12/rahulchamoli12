@@ -3,7 +3,7 @@ I’m currently learning Java<br>Ask me about HTML, CSS, JavaScript, DSA<br>How 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahul-chamoli-2b1299167/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-chamoli-2b1299167/) 
 - 👨‍💻 All of my projects are available at **[Portfolio](https://rahulchamoli12.github.io/)**
 
 # 💻 Tech Stack:
