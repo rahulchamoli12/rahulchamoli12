@@ -1,9 +1,14 @@
 # 💫 About Me:
-Self-motivated and aspiring Full Stack Web Developer with 1200+ hours of hands-on coding experience. Proficient in creating ready-to-use and user-friendly websites and applications. Team collaborator with good interpersonal skills and time management skills. Looking for a challenging role in a growth-oriented organisation.<br>Ask me about HTML, CSS, JavaScript, DSA<br>How to reach me : rahulchamoli518@gmail.com
+2+ years of experience in digital marketing, enhancing web and content strategies.<br>
+Skilled in SEO and Google Analytics to optimize site performance and analyze traffic.<br>
+Developed dynamic websites using Java and JavaScript, improving functionality and user experience.<br>
+Utilized SQL for robust backend data management to support marketing objectives.<br>
+Expert in creating engaging content and graphics using WordPress and Canva.<br>
+Team collaborator with good interpersonal skills and time management skills. Looking for a challenging role in a growth-oriented organisation.<br>Ask me about HTML, CSS, JavaScript, DSA<br>How to reach me : rahulchamoli98@gmail.com
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-chamoli-2b1299167/) 
+[![LinkedIn](https://www.linkedin.com/in/rahul-chamoli-027687329/) 
 - 👨‍💻 All of my projects are available at **[Portfolio](https://rahulchamoli12.github.io/)**
 
 # 💻 Tech Stack:
