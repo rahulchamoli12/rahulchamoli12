@@ -4,7 +4,7 @@ Skilled in SEO and Google Analytics to optimize site performance and analyze tra
 Developed dynamic websites using Java and JavaScript, improving functionality and user experience.<br>
 Utilized SQL for robust backend data management to support marketing objectives.<br>
 Expert in creating engaging content and graphics using WordPress and Canva.<br>
-Team collaborator with good interpersonal skills and time management skills. Looking for a challenging role in a growth-oriented organisation.<br>Ask me about HTML, CSS, JavaScript, DSA<br>How to reach me : rahulchamoli98@gmail.com
+Team collaborator with good interpersonal skills and time management skills. Looking for a challenging role in a growth-oriented organisation.<br>Ask me about SEO and SEM, Google Analytics, WordPress,HTML, CSS, JavaScript, DSA<br>How to reach me : rahulchamoli98@gmail.com
 
 
 ## 🌐 Socials:
